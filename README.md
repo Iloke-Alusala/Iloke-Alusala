@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iloke-Alusala
 - 👀 I’m interested in programming and electronics. I like to programme in different languages, but my favourite ones are Python and C++.
-- 🌱 I’m currently studying my 1st year of Mechatronics.
+- 🌱 I’m currently studying my 2nd year of Mechatronic Engineering.
 - 💞️ I’m not really collaborating with anyone else at the moment but feel free to contact me if you want to get in touch.
 - 📫 How to reach me:
       alusalailoke@gmail.com    (email) and 
