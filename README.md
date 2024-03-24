@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Iloke+Alusala!;" />
 </h1>
 
-<h3 align="center">A passionate software developer and Mechatronic Engineering Student</h3>
+<h3 align="center">A Passionate Software Developer and Mechatronic Engineering Student</h3>
 
 <br/>
 
