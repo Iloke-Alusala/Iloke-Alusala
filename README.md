@@ -20,11 +20,19 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **React.js, Firebase**
-
+      
+👋 Hi, I’m @Iloke-Alusala
+  
+👀 I’m interested in programming and electronics. I like to programme in different languages, but my favourite ones are Python and C++.
+  
+🌱 I’m currently studying my 2nd year of Mechatronic Engineering.
+  
+💞️ I’m not really collaborating with anyone else at the moment but feel free to contact me if you want to get in touch.
+  
+📫 How to reach me:
+      alusalailoke@gmail.com    (email) and 
+      @ilokealusala              (instagram)
+  
 💬 Ask me about **anything [here](https://github.com/Iloke-Alusala/Iloke-Alusala/issues)**
 
 ⚡ Fun fact **I can do a backflip**
