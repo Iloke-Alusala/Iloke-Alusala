@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,dart,js, java,vercel,wordpress" />
-    <img src="https://skillicons.dev/icons?i=py,arduino,typescript,c,cpp,cs,mysql,sql,flutter,kotlin,matlab,raspberrypi" /><br>
+    <img src="https://skillicons.dev/icons?i=py,arduino,typescript,c,cpp,cs,mysql,sqllite,flutter,kotlin,matlab,raspberrypi" /><br>
 </div>
 
 <br/>
