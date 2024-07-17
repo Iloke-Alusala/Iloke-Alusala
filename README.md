@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,dart,js, java,vercel,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,dart,js, java,vercel,wordpress,git" />
     <img src="https://skillicons.dev/icons?i=py,arduino,typescript,c,cpp,cs,mysql,sqlite,flutter,kotlin,matlab,raspberrypi" /><br>
 </div>
 
