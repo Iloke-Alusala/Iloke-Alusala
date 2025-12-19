@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
  </div>
  
 <div align="center"> 
-  <a href="mailto:alusalailoke@gmail.com">
+  <a href="mailto:alusalailoke@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/iloke-alusala-580a9925b/" target="_blank">
