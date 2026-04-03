@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 👀 I’m interested in programming and electronics.
   
-🌱 I’m currently studying my 3rd year of Mechatronic Engineering.
+🌱 I’m currently studying my 4th year of Mechatronic Engineering.
   
 💞️ I’m not really collaborating with anyone else at the moment but feel free to contact me if you want to get in touch.
   
